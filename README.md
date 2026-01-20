@@ -1,2 +1,2 @@
-# ml
+# machine learning
 estudos machine learning
